@@ -1,16 +1,25 @@
 # flutter_tubi
 
-A new Flutter project.
+A movie app building with Flutter for fun.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Some screenshots
 
-A few resources to get you started if this is your first Flutter project:
+iOS:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+<div align="center">
+<img src="https://github.com/xieweizhi/tubi_tv_flutter/blob/master/screenshot/ios/home.jpg?raw=true" height="300px" alt="home page" >
+<img src="https://github.com/xieweizhi/tubi_tv_flutter/blob/master/screenshot/ios/movie_details.jpg?raw=true" height="300px" alt="movie details" >
+    <img src="https://github.com/xieweizhi/tubi_tv_flutter/blob/master/screenshot/ios/search.jpg?raw=true" height="300px" alt="search" >
+    <img src="https://github.com/xieweizhi/tubi_tv_flutter/blob/master/screenshot/ios/video_player.jpg?raw=true" height="300px" alt="video player" >
+</div>
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+
+Andoird:
+
+<div contenteditable="plaintext-only"><div align="center">
+<img src="https://github.com/xieweizhi/tubi_tv_flutter/blob/master/screenshot/android/home.jpg?raw=true" height="300px" alt="home page" >
+<img src="https://github.com/xieweizhi/tubi_tv_flutter/blob/master/screenshot/android/movie_details.jpg?raw=true" height="300px" alt="movie details" >
+    <img src="https://github.com/xieweizhi/tubi_tv_flutter/blob/master/screenshot/android/search.jpg?raw=true" height="300px" alt="search" >
+    <img src="https://github.com/xieweizhi/tubi_tv_flutter/blob/master/screenshot/android/video_player.jpg?raw=true" height="300px" alt="video player" >
+</div>
