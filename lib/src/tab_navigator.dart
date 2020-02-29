@@ -62,6 +62,8 @@ class TabNavigator extends StatelessWidget {
         final MovieCategoryPageArguments args = routeSettings.arguments;
         return MovieCategoryPage(movies: args.movies, title: args.title);
       }
+
+      return null;
     });
   }
 }

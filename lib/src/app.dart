@@ -11,7 +11,6 @@ class App extends StatefulWidget {
 }
 
 class _AppState extends State<App> {
-  DateTime _lastPopAt;
   int _currentTab = TabType.home;
   final navigatorKey = GlobalKey<NavigatorState>();
   HomeBloc _homeBloc;
