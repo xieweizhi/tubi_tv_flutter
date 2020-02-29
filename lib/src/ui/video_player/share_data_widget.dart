@@ -10,8 +10,7 @@ class ShareDataWidget extends InheritedWidget {
   final Widget child;
 
   static ShareDataWidget of(BuildContext context) {
-    return (context.inheritFromWidgetOfExactType(ShareDataWidget)
-        as ShareDataWidget);
+    return context.dependOnInheritedWidgetOfExactType<ShareDataWidget>();
   }
 
   @override
