@@ -22,7 +22,7 @@ dependencies:
   flutter_bloc: ^0.8.0
   equatable: ^0.2.3
   json_serializable: ^2.0.3
-  cached_network_image: ^0.7.0
+  cached_network_image: ^2.0.0
   video_player: ^0.10.0+4
   flutter:
     sdk: flutter
